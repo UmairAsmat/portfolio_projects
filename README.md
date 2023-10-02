@@ -3,4 +3,4 @@
 2.	Potato Disease Image Classification
 3.	House Price Prediction
 4.	Sales Data Analysis
-5.	Web Scraping a.Clinic web Portal  b.	Taxation Statistics of Australian Government
+5.	Web Scraping a.Clinic web Portal  b.Taxation Statistics of Australian Government
